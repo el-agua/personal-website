@@ -154,7 +154,7 @@ const experiences: Experience[] = [
         company: "Georgia Institute of Technology, School of Aerospace Engineering",
         location: "Remote",
         date: "May 2022 - March 2023",
-        description: "I work on the backend team at PennLabs, where I help maintain the Penn Course Review API and work on other projects.",
+        description: "I worked with the Vamvoudakis Lab to study and develop Reinforcement Learning (RL) algorithms for autonomous flight and optimal control. Completed an independent project in autonomous tracking of aerial objects.",
         link: "/",
         image: "/gt.jpg",
         tags: ["MATLAB","Machine Learning","Reinforcement Learning"]
