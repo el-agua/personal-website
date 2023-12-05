@@ -102,7 +102,7 @@ export default function Splash() {
                         {projects.map((project, index) => (
                             <Card key={index} bgColor={"gray.50"} borderRadius={"10px"} width={{ base: "90%", md: "600px" }} alignSelf={"center"}>
                                 <Image borderTopRadius='10px' w={"100%"} src={project.image} alt="Image"></Image>
-                            <Box height="200px" p="4">
+                            <Box height={{base: "auto", md: "200px"}} p="4">
                                 <Heading as="h4" fontWeight="semibold" size={"md"} mb="1">{project.title}</Heading>
                                 <Box mt="2" mb="2">
                                     {project.tags.map((tag,i) => (
