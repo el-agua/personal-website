@@ -50,7 +50,7 @@ export default function Splash() {
                             <Card bgColor={"gray.50"} borderRadius={"10px"}>
                                 <Image borderTopRadius='10px' src={"/ISEFPRESCROP.jpeg"} alt="J" />
                                 <Box p="4">
-                                    <Text as="div" fontWeight="normal" fontSize={"lg"} mb="4">I&apos;m a freshman at the <strong>University of Pennsylvania</strong> pursuing a BSE in Computer Science.
+                                    <Text as="div" fontWeight="normal" fontSize={"lg"} mb="4">I&apos;m a student at the <strong>University of Pennsylvania</strong> pursuing a BSE in Computer Science.
                                         I&apos;m passionate about building technologies of the next generation. Some of my academic interests include applications of <strong>Machine Learning</strong> in the physical world, particularly in aerospace engineering and robotics. </Text>
                                     <Text as="div" fontWeight="normal" fontSize={"lg"} mb="0">Outside of school, you can find me at hackathons 💻, flying RC planes ✈️, or watching college football 🏈.</Text>
                                 </Box>
